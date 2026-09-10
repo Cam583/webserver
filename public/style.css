@@ -1,0 +1,18 @@
+body.light-mode {
+    background-color: lime;
+    color: black;
+}
+
+body.dark-mode {
+    background-color: purple;
+    color: white;
+}
+
+h1 {
+    color: red;
+}
+
+p {
+    color: blue;
+    font-size: 25px;
+}
